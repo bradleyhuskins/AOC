@@ -1,0 +1,3 @@
+mkdir Day<x>; cd Day<x>;
+dotnet new console -lang f#
+dotnet run

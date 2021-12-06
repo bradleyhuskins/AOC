@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UecgKx5dxeMcwqrt0wp2pEBRj/eILnABje8q/A7uBnWui7xdbKfoPgcWLTKzTEg3JK35FFh7x12/UmDasCbM+w==",
+  "success": true,
+  "projectFilePath": "/home/bradleyhuskins/Code/AOC/Day3/Day3.fsproj",
+  "expectedPackageFiles": [
+    "/home/bradleyhuskins/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
